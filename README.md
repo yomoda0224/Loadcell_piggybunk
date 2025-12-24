@@ -56,21 +56,21 @@ graph TD;
 
 ### 標準ライブラリ
 
-Arduino.h
+Arduino.h  
 Servo.h
 
 ### 追加ライブラリ
 
-指紋認証モジュール
+指紋認証モジュール  
 Adafruit_Fingerprint.h
 
-画面表示
-SPI.h
-Adafruit_GFX.h
+画面表示  
+SPI.h  
+Adafruit_GFX.h  
 Adafruit_ILI9341.h
 
-タッチパネル
-XPT2046_Touchscreen.h
+タッチパネル  
+XPT2046_Touchscreen.h  
 SPI.h
 
 ## 参考サイト
