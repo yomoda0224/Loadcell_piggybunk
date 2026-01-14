@@ -80,7 +80,7 @@ HX711.h
 - ロードセル
   - [webサイト](https://deviceplus.jp/arduino/arduino-dezitaru-keisoku-2/)
   - [解説動画](https://youtu.be/1BfKZ6SDnD0?si=p0DVoaR5B4i8J-f0)
-  - [キャリブレーションの解説](htts://youtu.be/sxzoAGf1kOo?si=oG0q9NBSkf5GrbU3)
+  - [キャリブレーションの解説](https://youtu.be/sxzoAGf1kOo?si=oG0q9NBSkf5GrbU3)
 
 - 貨幣の重さ
   - [財務省](https://www.mof.go.jp/policy/currency/coin/general_coin/list.htm)
