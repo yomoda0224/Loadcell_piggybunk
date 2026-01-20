@@ -2,7 +2,7 @@
 
 ## 概要
 
-Arduino UNO R4 Wifiを用いた、重さの検知と指紋認証でロック解除できる貯金箱
+Arduino UNO R4 Wifiを用いた、重さの検知と指紋認証でロック解除できる500円玉貯金箱
 
 ![alt text](picture/entirety.jpg)
 
