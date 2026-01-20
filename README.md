@@ -53,11 +53,12 @@ graph TD;
 
 ### 画面遷移
 
-成功時の流れ
-[](movie/mov1.mp4)
+**動画での流れ**  
+成功時
+<video width="630" height="300" src="https://github.com/user-attachments/assets/fb4d0afe-2310-47bc-8584-e03fbaddf263"></video>
 
-失敗時の流れ
-[](movie/mov2.mp4)
+失敗時
+<video width="630" height="300" src="https://github.com/user-attachments/assets/f32fdd39-3810-4ed0-bdc3-d8aa2803d70f"></video>
 
 通常時
 ![alt text](picture/normal.jpg)
